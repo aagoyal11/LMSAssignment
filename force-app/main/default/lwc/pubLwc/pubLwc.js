@@ -26,7 +26,7 @@ export default class PubLwc extends LightningElement {
             Constant: 1
         }
         publish(this.messageContext,Count_UPDATED_CHANNEL,payload);
-
+//hello
 
     }
     handleMultiply() {
